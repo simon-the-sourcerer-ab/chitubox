@@ -1,0 +1,2 @@
+# chitubox
+ChiTuBox for nixos
